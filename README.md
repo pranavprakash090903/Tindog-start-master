@@ -1,6 +1,6 @@
 # Tindog-start-master
 
-The Tindog website is made by using HTML,CSS and Bootstrap. Using CSS, back-ground color ,ions, font-family etc. are used in this project.
+The Tindog website is made by using HTML,CSS and Bootstrap.Using CSS, back-ground color ,ions, font-family etc. are used in this project.
 By this, the website look more dynamic which makes very handy for the customer to choose the best option for their pet dogs. 
 
 # Image
